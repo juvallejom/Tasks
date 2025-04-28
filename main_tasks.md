@@ -1,5 +1,12 @@
 # Tasks
 
+## Actividades Recurrentes
+  - [ ] Hacer Caja
+  - [ ] Comprar Minoxidil
+  - [ ] Arreglar Excel de habitos
+  - [ ] TErminar de ver Oblivion
+  - [ ] Llenar las tareas de las demas seccioes
+
 ## Luft
 ### Akademisch
 #### [LFAK001] Papeles Polimi
