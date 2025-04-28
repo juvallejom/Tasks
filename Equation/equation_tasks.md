@@ -36,3 +36,8 @@
 
 ## Acomulados
    - [ ] Migracion de la union entre muestras y offering cat a muestras y equation_coffe_categories
+   - [ ] DEpurar todos los codigos realizados en EQ
+   - [ ] Separar archivos de vistas
+   - [ ] Tablero de muestras super pulido
+   - [ ] Tablero de ventas de manera perfecta
+   - [ ] Debbugin de todas las secciones de codigo de Envio de muestras
