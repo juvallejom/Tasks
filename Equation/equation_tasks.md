@@ -9,7 +9,8 @@
  - [ ] Revisar que se hara con el campo de categoria principal. En este momento esta enlazado con el que esta creado en muestras y deberia estar enlazado con el que esta en Equation Coffee
 ### Section 2: Vistas
   - [ ] Dejar campos como opcionales para que Laura pueda escoger los campos que ella quiera. (En las dos vistas: Tanto en precios como en productos disponibles
-  - [ ] 
+  - [ ] Revisar la opcion que las columnas se hagan mas anchas en función del texto que se esta almacenando
+  - [ ] REstricciones en los modelos
 ### Section 3: Precios
  - [ ] Hacer que la TRM Funcione T[ ] P[ ]
  - [ ] Hacer que el Precio C este en lines T[ ] P[ ]
@@ -22,5 +23,13 @@
    - [ ] Calculo por Diferencial
      - [ ] Revision Luis Miguel
      - [ ] Revisión y funcionamiento T[ ] P[ ]
+   - [ ] Respaldo de los precios 
 ### Section 4: Wizard
-### Section 5: PDF
+   - [ ] Mirar que funcionen bien los filtros de selección
+   - [ ] Visibilidad de las columnas en función de los booleanos
+   - [ ] Columnas en los reportes
+   - [ ] Visibilidad de las columnas en el reporte en función de los booleanos que hemos realizado
+   - [ ] Guardado de la informacion
+### Section 5: PDF 
+   - [ ] Diseño del PDF
+   - [ ] 
