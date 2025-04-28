@@ -32,4 +32,7 @@
    - [ ] Guardado de la informacion
 ### Section 5: PDF 
    - [ ] Diseño del PDF
-   - [ ] 
+   - [ ] Opcion de descarga
+
+## Acomulados
+   - [ ] Migracion de la union entre muestras y offering cat a muestras y equation_coffe_categories
