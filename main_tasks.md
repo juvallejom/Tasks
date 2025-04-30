@@ -2,8 +2,9 @@
 
 ## Actividades Recurrentes
   - [ ] Comprar Minoxidil
-  - [ ] Arreglar Excel de habitos
+  - [ ] Conseguir o encontrar el cargador del computador blanco
   - [ ] Llenar las tareas de las demas secciones
+  - [ ] 
 
 ## Luft
 ### Akademisch
