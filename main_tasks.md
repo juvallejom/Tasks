@@ -3,13 +3,26 @@
 ## Actividades Recurrentes
   - [ ] Comprar Minoxidil
   - [ ] Arreglar Excel de habitos
-  - [ ] Llenar las tareas de las demas seccioes
+  - [ ] Llenar las tareas de las demas secciones
 
 ## Luft
 ### Akademisch
 #### [LFAK001] Papeles Polimi
+  - [ ] Tomarme las fotos tipo documento
+  - [ ] Conseguir Traductor
+    - [ ] Traducir Papeles
+  - [ ] Llenar Universitaly
+  - [ ] Declaracion de Valor
+  - [ ] Papeles Visa
+  - [ ] Presupuesto Detallado
+  - [ ] Conseguir Alquiler
+  - [ ] Inventario de cosas por llevar y por comprar
 #### [LFAK002] Maths
+  - [ ] Pensum detallado Mit y empezar a estrudiarlo
+  - [ ] Continuar con el estudio de Analsiis Matematico I
 #### [LFAK003] Control Theory
+  - [ ] Empaparme del campo de investigación disponible
+  - [ ] REtormar lectura del Kalil
 ### Professionalles Leben
 #### [LFPL001] Muestras
 #### [LFPL002] Offering
