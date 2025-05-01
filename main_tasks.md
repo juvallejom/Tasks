@@ -4,7 +4,16 @@
   - [ ] Comprar Minoxidil
   - [ ] Conseguir o encontrar el cargador del computador blanco
   - [ ] Llenar las tareas de las demas secciones
-  - [ ] 
+  - [ ] Hacer conteo Abril YT
+
+## Actividades para hoy
+  - [ ] Comprar Minoxidil
+  - [ ] Estudair ML
+  - [ ] Pagar gastos mes y hacer caja
+  - [ ] Ver Thunderbotls
+  - [ ] Limpiar un poco ig
+  - [ ] Calendario peliculas y series
+
 
 ## Luft
 ### Akademisch
