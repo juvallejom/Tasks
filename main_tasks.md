@@ -1,19 +1,16 @@
 # Tasks
 
-## Actividades Recurrentes
-  - [ ] Comprar Minoxidil
+## Actividades Recurrentes y a tener en cuenta pronto
   - [ ] Conseguir o encontrar el cargador del computador blanco
   - [ ] Llenar las tareas de las demas secciones
   - [ ] Hacer conteo Abril YT
+  - [ ] Calificacion Series y Peliculas
 
 ## Actividades para hoy
-  - [ ] Comprar Minoxidil
   - [ ] Estudair ML
   - [ ] Pagar gastos mes y hacer caja
-  - [ ] Ver Thunderbotls
   - [ ] Limpiar un poco ig
-  - [ ] Calendario peliculas y series
-
+  - [ ] Pagar Tarjeta Nu
 
 ## Luft
 ### Akademisch
