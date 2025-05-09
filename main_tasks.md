@@ -15,10 +15,10 @@
 ## Luft
 ### Akademisch
 #### [LFAK001] Papeles Polimi
-  - [ ] Tomarme las fotos tipo documento
+  - [x] Tomarme las fotos tipo documento
   - [ ] Conseguir Traductor
     - [ ] Traducir Papeles
-  - [ ] Llenar Universitaly
+  - [x] Llenar Universitaly
   - [ ] Declaracion de Valor
   - [ ] Papeles Visa
   - [ ] Presupuesto Detallado
