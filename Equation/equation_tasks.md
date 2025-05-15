@@ -28,7 +28,7 @@
    - [ ] Respaldo de los precios 
 ### Section 4: Wizard
    - [ ] Mirar que funcionen bien los filtros de selección
-   - [ ] Visibilidad de las columnas en función de los booleanos
+   - [ ] Visibilidad de las columnas en función de los booleanos (Pendiente los campos de Availability)
    - [ ] Columnas en los reportes
    - [ ] Visibilidad de las columnas en el reporte en función de los booleanos que hemos realizado
    - [ ] Colocar campos obligarios (Cliente - Fecha de Expiracion - Ocultar el salesperson_header )
