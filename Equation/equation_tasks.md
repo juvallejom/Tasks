@@ -31,10 +31,19 @@
    - [ ] Columnas en los reportes
    - [ ] Visibilidad de las columnas en el reporte en función de los booleanos que hemos realizado
    - [ ] Guardado de la informacion
+     - [ ] Creacion y defincion del modelo tipo order
+     - [ ] Creacion y definicion del modelo tipo line
+     - [ ] Guardado de la informacion
    - [ ] Logica de codigos en funcion de la categoria de producto
 ### Section 5: PDF 
    - [ ] Diseño del PDF
+     - [ ] Diseñar la logica para generar el PDF en varias paginas
+     - [ ] Logica que determina el espaciado entre las categorias
+     - [ ] Logica del ancho de las columnas de manera dinamica
+     - [ ] Limpieza del codigo del PDF contenido en el lambda function
+     - [ ] Levantamiento del lambda funcion en el servidor del Coffee
    - [ ] Opcion de descarga
+     - [ ] Revisar la devolución del PDF para guardarlo directamente en el modelo que alamcena el historial de los offerings 
 
 ## Acomulados
    - [ ] Migracion de la union entre muestras y offering cat a muestras y equation_coffe_categories
