@@ -16,9 +16,17 @@
 ### Akademisch
 #### [LFAK001] Papeles Polimi
   - [x] Tomarme las fotos tipo documento
-  - [ ] Conseguir Traductor
-    - [ ] Traducir Papeles
+  - [ ] Traducción
+    - [x] Buscar el traductor
+    - [ ] Pagar la primera parte de la traducción
+    - [ ] Pagar la segunda parte de la traducción
   - [x] Llenar Universitaly
+  - [ ] Buscar Becas
+    - [ ] Polimi Tercer Llamado
+    - [ ] Beca MAECI
+    - [ ] Buscar Becas
+    - [ ] Hacer calculos
+    - [ ] Planear camino a la beca de merito 
   - [ ] Declaracion de Valor
   - [ ] Papeles Visa
   - [ ] Presupuesto Detallado
