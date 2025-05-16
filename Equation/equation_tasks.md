@@ -29,16 +29,16 @@
 ### Section 4: Wizard
    - [ ] Mirar que funcionen bien los filtros de selección
    - [ ] Visibilidad de las columnas en función de los booleanos (Pendiente los campos de Availability)
-   - [ ] Columnas en los reportes
-   - [ ] Visibilidad de las columnas en el reporte en función de los booleanos que hemos realizado
-   - [ ] Colocar campos obligarios (Cliente - Fecha de Expiracion - Ocultar el salesperson_header )
+   - [x] Columnas en los reportes
+   - [x] Visibilidad de las columnas en el reporte en función de los booleanos que hemos realizado
+   - [x] Colocar campos obligarios (Cliente - Fecha de Expiracion - Ocultar el salesperson_header )
    - [ ] Cerrar el wizard tan pronto se genera el pdf
-   - [ ] Mirar como coultar las columnas en el wizard en funcion de loos booleanos
    - [ ] Como mejorar el tree o list del wizard para que no se vean tan feos los lotes seleccionados
    - [ ] Guardado de la informacion
-     - [ ] Creacion y defincion del modelo tipo order
-     - [ ] Creacion y definicion del modelo tipo line
-     - [ ] Guardado de la informacion
+     - [x] Creacion y defincion del modelo tipo order
+     - [x] Creacion y definicion del modelo tipo line
+     - [x] Guardado de la informacion
+     - [ ] Mejorar la visual (Crear FORM y LIST embebido en esta vista) PRIORIDAD BAJA
    - [ ] Logica de codigos en funcion de la categoria de producto
 ### Section 5: PDF 
    - [ ] Diseño del PDF
